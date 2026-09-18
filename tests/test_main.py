@@ -1,7 +1,7 @@
 """Tests for main module."""
 
 import pytest
-from src.main import greet, add, multiply
+from hermes_test_project.main import greet, add, multiply
 
 
 class TestGreet:
